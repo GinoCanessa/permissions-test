@@ -8,7 +8,7 @@ reviewers:
   # Reviewer groups each of which has a list of GitHub usernames
   groups:
     repository-owners:
-      - ginocanessa # username
+      # - ginocanessa # username
       # - you # username
       # - team:owners # GitHub team
     # core-contributors:
